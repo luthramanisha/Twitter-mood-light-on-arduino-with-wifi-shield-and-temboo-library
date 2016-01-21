@@ -1,0 +1,10 @@
+-amanishaluthra247
+-c/Library/Twitter/Search/Tweets
+-umyFirstApp
+-p06fb70a0f22c4540aef359d05e080a87
+-iAccessToken:2288625830-JAgZw4XLvoaiNa84XFCu4Dm22WJCKvEosib29jp
+-iAccessTokenSecret:O9yq1j0MDSOlf9UWVKvig4B4kf2QYRh0NfFsCpUe2JlFc
+-iConsumerSecret:AOvDTQjUKfQXZIF0aXMxSyihlEK9jAl31XJCHwvud5s
+-iConsumerKey:NtBrvlmlrv5GXy7mIbLG0g
+-w/mnt/sda1/settings.h
+-r/mnt/sda1/settings.h

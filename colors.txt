@@ -1,0 +1,19 @@
+Color patterns
+Following are the led colors visible for various moods:-
+
+		mild		considerable(low intensity)	extreme(high intensity)
+love 	 			green blink			green blink
+		blue flash	blue flash			blue flash
+joy				green blink			green blink
+		blue flash	blue flash			blue flash
+surprise			blue blink			blue blink
+		green flash	green flash			green flash
+
+anger				blue blink			blue blink
+		green flash	green flash			green flash
+envy 				red blink			red blink
+		green flash	green flash			green flash
+sadness				red blink			red blink
+		green flash	green flash			green flash
+fear		white (none)	green blink			green blink
+
