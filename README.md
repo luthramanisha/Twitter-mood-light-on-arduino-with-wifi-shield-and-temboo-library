@@ -1,5 +1,5 @@
 # Twitter mood light on arduino with wifi shield and temboo library 
-Implements asoftware program for arduino sensor board accessing Web services over a WiFi connection for Internet of the Things applications. 
+Implemented a software program for arduino sensor board accessing Web services over a WiFi connection for Internet of the Things applications. 
 Enables downloading and processing of data (data mining) from a REST API and perform actuation accordingly.
 
 Hardware:  
