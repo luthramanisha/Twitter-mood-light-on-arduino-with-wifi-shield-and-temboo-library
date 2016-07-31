@@ -3,7 +3,7 @@ Implemented a software program for arduino sensor board accessing Web services o
 Enables downloading and processing of data (data mining) from a REST API and perform actuation accordingly.
 
 ## Hardware:  
-* Arduino Uno  
+* Arduino Uno sensor board
 * Wifi shield  
 * multi color and RGB leds  
 * shield to solder leds  
