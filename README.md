@@ -12,3 +12,5 @@ Enables downloading and processing of data (data mining) from a REST API and per
 * Arduino IDE  
 * Temboo library account to connect to twitter api  
 * Putty and REST APIs
+
+Credits: [Twitter Mood Light] (http://www.instructables.com/id/Twitter-Mood-Light-The-Worlds-Mood-in-a-Box/)
